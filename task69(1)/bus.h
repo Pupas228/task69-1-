@@ -1,0 +1,7 @@
+
+
+class Bus:
+	public:
+{
+
+}
